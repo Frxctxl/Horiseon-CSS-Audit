@@ -9,7 +9,7 @@ git clone https://github.com/Frxctxl/Horiseon-CSS-Audit.git
 The live site may be viewed at the following url.
 https://frxctxl.github.io/Horiseon-CSS-Audit/
 Here is a screenshot of the page.
-![Page Screenshot](./assets/images/Screenshot 2024-06-17 at 7.08.49 PM.png)
+![Page Screenshot](./assets/images/Screenshot.png)
     
 ## Credits
 The original files for this program may be found here if you wish to recreate this project.
