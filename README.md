@@ -4,12 +4,12 @@ This project was undertaken as part of a coding bootcamp. This was the first cha
 
 ## Installation
 If you wish to run this project locally on your own computer, assuming you have git installed, input the following code in your terminal.
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+git clone https://github.com/Frxctxl/Horiseon-CSS-Audit.git
 ## Usage
 The live site may be viewed at the following url.
-https://YOUR_USERNAME.github.io/REPO_NAME/
+https://frxctxl.github.io/Horiseon-CSS-Audit/
 Here is a screenshot of the page.
-![Alt text](./assets/images/final-result.png)
+![Page Screenshot](./assets/images/Screenshot 2024-06-17 at 7.08.49 PM.png)
     
 ## Credits
 The original files for this program may be found here if you wish to recreate this project.
